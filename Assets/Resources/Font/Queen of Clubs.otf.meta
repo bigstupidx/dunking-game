@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 83cb348c7ccd1b5419f5736619f96e2d
+timeCreated: 1510357733
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Queen of Clubs
+  fontNames:
+  - Queen of Clubs
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
